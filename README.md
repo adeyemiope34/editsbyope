@@ -1,4 +1,4 @@
-# Plainspoken Editorial — Portfolio Website
+# Adeyemi Opeyemi Emmanuel — Portfolio Website
 
 A single-page portfolio site for **Adeyemi Opeyemi Emmanuel**, Christian nonfiction book editor, built to showcase editing services, portfolio, and contact info to prospective Upwork/direct clients.
 
